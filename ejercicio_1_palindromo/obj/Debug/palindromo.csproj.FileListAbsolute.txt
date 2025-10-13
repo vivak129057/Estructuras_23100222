@@ -1,0 +1,8 @@
+C:\Users\Gabo\Downloads\Estructura de datos\Torres de hanoi\Nueva carpeta\practica filas y pilas\palindromo\bin\Debug\palindromo.exe.config
+C:\Users\Gabo\Downloads\Estructura de datos\Torres de hanoi\Nueva carpeta\practica filas y pilas\palindromo\bin\Debug\palindromo.exe
+C:\Users\Gabo\Downloads\Estructura de datos\Torres de hanoi\Nueva carpeta\practica filas y pilas\palindromo\bin\Debug\palindromo.pdb
+C:\Users\Gabo\Downloads\Estructura de datos\Torres de hanoi\Nueva carpeta\practica filas y pilas\palindromo\obj\Debug\palindromo.csproj.AssemblyReference.cache
+C:\Users\Gabo\Downloads\Estructura de datos\Torres de hanoi\Nueva carpeta\practica filas y pilas\palindromo\obj\Debug\palindromo.csproj.CoreCompileInputs.cache
+C:\Users\Gabo\Downloads\Estructura de datos\Torres de hanoi\Nueva carpeta\practica filas y pilas\palindromo\obj\Debug\palindromo.exe
+C:\Users\Gabo\Downloads\Estructura de datos\Torres de hanoi\Nueva carpeta\practica filas y pilas\palindromo\obj\Debug\palindromo.pdb
+C:\Users\Gabo\Downloads\Estructura de datos\Torres de hanoi\Nueva carpeta\practica filas y pilas\palindromo\obj\Debug\palindromo.exe.config
