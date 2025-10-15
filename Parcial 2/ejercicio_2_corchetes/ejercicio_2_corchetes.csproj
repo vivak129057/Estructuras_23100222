@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{13A35E2F-0676-4D64-9A30-F91618F5DC3E}</ProjectGuid>
+    <ProjectGuid>{E34F80AC-0C84-4195-96DC-FB2534C9B72B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>corchete</RootNamespace>
-    <AssemblyName>corchete</AssemblyName>
+    <RootNamespace>ejercicio_2_corchetes</RootNamespace>
+    <AssemblyName>ejercicio_2_corchetes</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

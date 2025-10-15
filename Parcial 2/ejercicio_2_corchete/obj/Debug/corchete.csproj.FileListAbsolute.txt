@@ -1,8 +1,0 @@
-C:\Users\Gabo\Desktop\Estructuras\Parcial 2\ejercicio_2_corchete\bin\Debug\corchete.exe.config
-C:\Users\Gabo\Desktop\Estructuras\Parcial 2\ejercicio_2_corchete\bin\Debug\corchete.exe
-C:\Users\Gabo\Desktop\Estructuras\Parcial 2\ejercicio_2_corchete\bin\Debug\corchete.pdb
-C:\Users\Gabo\Desktop\Estructuras\Parcial 2\ejercicio_2_corchete\obj\Debug\corchete.csproj.AssemblyReference.cache
-C:\Users\Gabo\Desktop\Estructuras\Parcial 2\ejercicio_2_corchete\obj\Debug\corchete.csproj.CoreCompileInputs.cache
-C:\Users\Gabo\Desktop\Estructuras\Parcial 2\ejercicio_2_corchete\obj\Debug\corchete.exe
-C:\Users\Gabo\Desktop\Estructuras\Parcial 2\ejercicio_2_corchete\obj\Debug\corchete.pdb
-C:\Users\Gabo\Desktop\Estructuras\Parcial 2\ejercicio_2_corchete\obj\Debug\corchete.exe.config

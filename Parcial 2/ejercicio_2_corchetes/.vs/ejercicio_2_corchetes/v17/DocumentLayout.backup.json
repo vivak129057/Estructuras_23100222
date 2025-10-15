@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gabo\\Desktop\\Estructuras\\Parcial 2\\ejercicio_2_corchete\\",
+  "WorkspaceRootPath": "C:\\Users\\Gabo\\Desktop\\Estructuras\\Parcial 2\\ejercicio_2_corchetes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13A35E2F-0676-4D64-9A30-F91618F5DC3E}|corchete.csproj|c:\\users\\gabo\\desktop\\estructuras\\parcial 2\\ejercicio_2_corchete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13A35E2F-0676-4D64-9A30-F91618F5DC3E}|corchete.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E34F80AC-0C84-4195-96DC-FB2534C9B72B}|ejercicio_2_corchetes.csproj|c:\\users\\gabo\\desktop\\estructuras\\parcial 2\\ejercicio_2_corchetes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34F80AC-0C84-4195-96DC-FB2534C9B72B}|ejercicio_2_corchetes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gabo\\Desktop\\Estructuras\\Parcial 2\\ejercicio_2_corchete\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\Desktop\\Estructuras\\Parcial 2\\ejercicio_2_corchetes\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Gabo\\Desktop\\Estructuras\\Parcial 2\\ejercicio_2_corchete\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabo\\Desktop\\Estructuras\\Parcial 2\\ejercicio_2_corchetes\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T01:02:05.31Z",
+              "WhenOpened": "2025-10-15T02:44:55.897Z",
               "EditorCaption": ""
             }
           ]

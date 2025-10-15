@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace corchete
+namespace ejercicio_2_corchetes
 {
     internal class Program
     {
@@ -20,19 +20,19 @@ namespace corchete
 
             Console.ReadKey();
         }
-        
-         static bool ValidarBalance(string expresion)
+
+        static bool ValidarBalance(string expresion)
         {
             Stack<char> pila = new Stack<char>();
 
             foreach (char C in expresion)
             {
-                
-                if ( C == '(' || C == '[' || C == '{')
+
+                if (C == '(' || C == '[' || C == '{')
                 {
                     pila.Push(C);
                 }
-                else if (C == ')' || C  == ']' || C == '}')
+                else if (C == ')' || C == ']' || C == '}')
                 {
                     if (pila.Count == 0)
                         return false;
@@ -52,6 +52,5 @@ namespace corchete
                     (apertura == '[' && cierre == ']') ||
                     (apertura == '{' && cierre == '}');
         }
-
     }
 }
