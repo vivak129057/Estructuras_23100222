@@ -88,23 +88,23 @@ if pila:
 
 cola = deque()
 
-# 1. ENQUEUE (Encolar)
+## 1. ENQUEUE (Encolar)
 cola.append( 'A' ) # [ 'A' ]   
 cola.append( 'B' ) # [ 'A', 'B' ]
 print(f"Cola después de enqueue: {cola}")
 
-# 2. PEEK (Consultar el frente)
+## 2. PEEK (Consultar el frente)
 if cola:  
     print(f"Elemento en el frente (peek): {cola[0]}")
 
-# 3. DEQUEUE (Desencolar - FIFO)
+## 3. DEQUEUE (Desencolar - FIFO)
 if cola:  
     elemento = cola.popleft()
     print(f"Elemento desencolado: {elemento}") 
      # 'A' (el primero que entró)  
     print(f"Cola después de dequeue: {cola}") # [ 'B' ]
 
-# Aplicaciones:
+## Aplicaciones:
 - Colas de impresión
 - Gestión de procesos y tareas en un Sistema Operativo
 - Buffer de teclado/mouse
